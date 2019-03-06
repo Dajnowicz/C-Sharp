@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie Talie.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie_Talie.Form1.resources
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie_Talie.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie Talie.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie Talie.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\bin\Debug\Dwie Talie.exe.config
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\bin\Debug\Dwie Talie.exe
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\bin\Debug\Dwie Talie.pdb
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie Talie.exe
+C:\Users\Lenovo\source\repos\Dwie Talie\Dwie Talie\obj\Debug\Dwie Talie.pdb
